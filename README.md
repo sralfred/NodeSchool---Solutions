@@ -5,6 +5,7 @@ In this repo I'm gonna upload the solutions from the NodeSchool courses.
 - [Javascript](https://github.com/sralfred/NodeSchool---Solutions/tree/master/javascripting)
 - [LernYouNode (maybe later ;))] (https://github.com/sralfred/NodeSchool---Solutions/tree/master/learnyounode)
 - [Scope chains & Closures] (https://github.com/sralfred/NodeSchool---Solutions/tree/master/Scope)
+- [Stream Adventure] (https://github.com/sralfred/NodeSchool---Solutions/tree/master/StreamAdventure)
 - ...
 
 Let's be friends, or not:
